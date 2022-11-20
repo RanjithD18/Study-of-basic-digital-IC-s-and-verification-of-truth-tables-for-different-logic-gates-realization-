@@ -75,8 +75,6 @@ xnor (y5,a,b);
 nand (y6,a,b);
 nor (y7,a,b);
 endmodule
-Logic symbol & Truthtable
-RTL realization
 ~~~
 ## Output:
 ### Logic symbol & Truthtable:
